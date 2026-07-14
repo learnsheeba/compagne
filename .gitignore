@@ -6,9 +6,9 @@ __pycache__/
 *.pyc
 
 # Node
-frontend/node_modules/
-frontend/.next/
-frontend/.env.local
+frontend1/node_modules/
+frontend1/.next/
+frontend1/.env.local
 
 # OS
 .DS_Store
