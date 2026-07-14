@@ -1,0 +1,10 @@
+I want to build an app, which takens in pdf document and it creates RAG system out of it using LanceDB.
+Techstack: react,typescript,nextjs,python,fastapi,langchain,LanceDB
+
+main user flows is upload document, select chapters, quiz, number of questions will be generated based out of selected chapters.
+quiz can be of two modes
+1. strict - no verification during quiz 
+2. study - able to verify with correct answer and explanation.
+
+I also want to add chat, which pops up when document is uploaded successfully and vector db is created successfully.
+This chat assistant helps to answer user's questions based out of that book
